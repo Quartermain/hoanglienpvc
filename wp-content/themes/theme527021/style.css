@@ -1,0 +1,31 @@
+/*--
+	Theme Name: theme52702
+	Theme URI: http://info.template-help.com/help/
+	Description: A theme for Wordpress 3.8.x
+	Author: Template_Help.com
+	Author URI: http://info.template-help.com/help/
+	Template: CherryFramework
+	Version: 3.1.2
+--*/
+
+/* ----------------------------------------
+	Please, You may put custom CSS here
+---------------------------------------- */
+
+.footer-text {
+    padding-top: 38px;
+}
+.logo {
+    padding: 52px 0 0 !important;
+}
+.footer {
+    padding: 0 0 0 !important;
+}
+.service-box h2 {
+    font-size: 42px !important;
+    line-height: 48px !important;
+}
+.service-box h5 {
+    line-height: 38px !important;
+    margin-bottom: 30px !important;
+}
