@@ -1,0 +1,26 @@
+﻿<div class="row-fluid">
+<div class="span3">
+<div class="service-block"><a href="http://hoanglienpvc.local/wp-content/uploads/2011/07/a5c245b4d51ab89296313fe1998db205dab191a1347ccfaa0fade9462dce68db.jpg"><img class="alignnone size-medium wp-image-2044" src="http://hoanglienpvc.local/wp-content/uploads/2011/07/a5c245b4d51ab89296313fe1998db205dab191a1347ccfaa0fade9462dce68db-300x300.jpg" alt="" width="300" height="300" /></a>
+<h2>GIỚI THIỆU CÔNG TY</h2>
+<div class="btn-align"><a class="btn btn-inverse btn-normal btn-primary " title="Chi tiết" href="about/" target="_self">Chi tiết</a></div>
+</div>
+</div>
+<div class="span3">
+<div class="service-block"><a href="http://hoanglienpvc.local/wp-content/uploads/2011/07/64687d6fe21ea559c7dccc97d77657b60d63a0d65530979cf3c1d06475cf92c4.jpg"><img class="alignnone size-medium wp-image-2043" src="http://hoanglienpvc.local/wp-content/uploads/2011/07/64687d6fe21ea559c7dccc97d77657b60d63a0d65530979cf3c1d06475cf92c4-300x300.jpg" alt="" width="300" height="300" /></a>
+<h2>SẢN PHẨM MÀNG PVC</h2>
+<div class="btn-align"><a class="btn btn-inverse btn-normal btn-primary " title="Chi tiết" href="portfolio-view/mang-pvc/" target="_self">Chi tiết</a></div>
+</div>
+</div>
+<div class="span3">
+<div class="service-block"><a href="http://hoanglienpvc.local/wp-content/uploads/2016/01/ao-mua-2-da-loai-1-dau-cao-cap-2.jpg"><img class="alignnone size-medium wp-image-2097" src="http://hoanglienpvc.local/wp-content/uploads/2016/01/ao-mua-2-da-loai-1-dau-cao-cap-2-300x300.jpg" alt="" width="300" height="300" /></a>
+<h2>SẢN PHẨM YÊN XE MÁY</h2>
+<div class="btn-align"><a class="btn btn-inverse btn-normal btn-primary " title="Chi tiết" href="portfolio-view/yen-xe-may/" target="_self">Chi tiết</a></div>
+</div>
+</div>
+<div class="span3">
+<div class="service-block"><a href="http://hoanglienpvc.local/wp-content/uploads/2011/07/a5c245b4d51ab89296313fe1998db205dab191a1347ccfaa0fade9462dce68db.jpg"><img class="alignnone size-medium wp-image-2044" src="http://hoanglienpvc.local/wp-content/uploads/2011/07/a5c245b4d51ab89296313fe1998db205dab191a1347ccfaa0fade9462dce68db-300x300.jpg" alt="" width="300" height="300" /></a>
+<h2>THÔNG TIN LIÊN HỆ</h2>
+<div class="btn-align"><a class="btn btn-inverse btn-normal btn-primary " title="Chi tiết" href="contact/" target="_self">Chi tiết</a></div>
+</div>
+</div>
+</div>
